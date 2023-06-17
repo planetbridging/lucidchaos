@@ -2,8 +2,8 @@
 LUCID CHAOS: Leveraging Unseen Cyber Intrusion Dynamics - Comprehensive Hacking and Offensive Operations System
 
 
-User overview
+# User overview
 ![Diagram](./diagram1.png)
 
-Design overview
+# Design overview
 ![Diagram](./diagram2.png)
